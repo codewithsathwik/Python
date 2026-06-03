@@ -8,7 +8,6 @@ menu = [
 iced_tea = [tea for tea in menu if "Iced" in tea]
 print(iced_tea)
 
-
 # var = {expression for var in collection if condition}
 faverate_chai=[
     "Msasla",

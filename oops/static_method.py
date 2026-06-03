@@ -44,3 +44,4 @@ order2 = chaiOrder.from_string("Ginger,low,small")
 print(order1.__dict__)
 print(order2.__dict__)
 # print(order3.__dict__)
+
