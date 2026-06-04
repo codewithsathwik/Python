@@ -9,6 +9,7 @@ class Employee(BaseModel):
         max_length=25,
         description="Employee name"
     )
+    
     department : Optional[str] = "General"
     salary : float = Field(
         ...,
